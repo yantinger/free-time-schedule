@@ -1,0 +1,49 @@
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form2.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form3.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form4.resources
+c:\users\user\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Project\Project\bin\Debug\Database1.mdf
+C:\Users\User\Documents\Visual Studio 2017\Projects\Project\Project\bin\Debug\Database1_log.ldf
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\bin\Debug\Project.exe.config
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.exe
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.pdb
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\bin\Debug\Project.exe
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\bin\Debug\Project.pdb
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\bin\Debug\Database2.mdf
+C:\Users\sunshangjih\Documents\視窗\hw\Project\Project\bin\Debug\Database2_log.ldf
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Project.exe.config
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.exe
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.pdb
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2.mdf
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2_log.ldf
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Project.exe
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Project.pdb
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2DataSet1.Designer.cs
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2DataSet1.xsc
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2DataSet1.xsd
+C:\Users\sunshangjih\Documents\視窗\window\Project\Project\bin\Debug\Database2DataSet1.xss
